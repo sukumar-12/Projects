@@ -21,3 +21,4 @@ Deliverables:
 6. Your top three recommendations based on your analysis
 
 All the steps are in the "Case Study-Difference bw members and casual riders.Rmd" file.
+Please download the html file and open it to view it in web browser.
